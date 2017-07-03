@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706684787365",
+    "firebase_url": "https://todoo-cfb7b.firebaseio.com",
+    "project_id": "todoo-cfb7b",
+    "storage_bucket": "todoo-cfb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706684787365:android:f0f0e267a2e3e321",
+        "android_client_info": {
+          "package_name": "com.bridgelabz.todoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706684787365-gaesn60d2eb5ll2483mjs3gopr0vbo4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfg0BKO51syE68g6O0yTa2XxMNkIb0yg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

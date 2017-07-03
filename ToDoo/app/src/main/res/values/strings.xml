@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ToDoo</string>
+    <string name="facebook_app_id">660544587475436</string>
+
+
+
+
+
+    <string name="title_activity_to_do">ToDoActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+<!--
+    <string name="facebook_app_id">270768856709156</string>
+-->
+
+<!--
+    <string name="fb_login_protocol_scheme">fb270768856709156</string>
+-->
+
+    <string name="fb_login_protocol_scheme">fb660544587475436</string>
+    <string name="action_settings">Settings</string>
+    <string name="userName">pradipsonawane@gmail.com</string>
+    <string name="user_password">pradip123</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_client_key_id">850919446578-99256ps8i0g1kv1kgh8iv7ikt21rv9gu.apps.googleusercontent.com</string>
+    <string name="geturl_path">myProfiles/sample.jpg</string>
+    <string name="flag_false">false</string>
+    <string name="null_string">null</string>
+    <string name="select_pick">Select Picture</string>
+    <string name="load_data">Please Wait while loading data</string>
+    <string name="success">succcess</string>
+    <string name="flag_true">true</string>
+    <string name="loading">Loading...</string>
+    <string name="updated">succcessfully Updated...</string>
+    <string name="fail_update">fail to Update...</string>
+    <string name="gmail_access">public_profile email</string>
+    <string name="fb_profile_fields">id, first_name, last_name, email,gender, birthday, location</string>
+    <string name="fields">fields</string>
+    <string name="fb_login_cancel">Login attempt canceled</string>
+    <string name="error">Error</string>
+    <string name="fb_login_unAthorised">Please Enter Valid Email ...</string>
+    <string name="enter_valid">Please Enter The User Name  And Password ...</string>
+    <string name="login_user">Login User...</string>
+    <string name="profile_pic">profile_pic</string>
+    <string name="first_name">first_name</string>
+    <string name="last_name">last_name</string>
+    <string name="email_id">email</string>
+    <string name="gender">gender</string>
+    <string name="birthday">birthday</string>
+    <string name="location">location</string>
+    <string name="fb_url_start">https://graph.facebook.com/</string>
+    <string name="fb_url_last"><![CDATA[/picture?width=200&height=150]]></string>
+    <string name="email_pattern">^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$</string>
+    <string name="select_card">Select One card To Share ...</string>
+    <string name="data_is_null">Notes You Add appear hear</string>
+    <string name="get_reminder_null">There is No Reminder for Today</string>
+    <string name="get_archive_null">Archived List is Empty</string>
+    <string name="get_trash_null">Trash is Empty</string>
+
+</resources>
